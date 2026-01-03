@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I’m Indranil<br><br>🎓 B.Tech CSE (AI & ML) @ RCCIIT, Kolkata<br>💻 Learning DSA (C/C++), Java, Computer Organization<br>📚 Strong believer in fundamentals over shortcuts<br><br>Code with logic. Learn with depth. Build for the future.
 
 
